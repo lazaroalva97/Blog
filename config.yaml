@@ -24,6 +24,6 @@ params:
     - icon: github
       name: Github
       url: https://github.com/gohugoio
-    - icon: twitter
-      name: Twitter
-      url: https://twitter.com/gohugoio
+    - icon: linkedin
+      name: LinkedIn
+      url: https://www.linkedin.com/in/lazaro-alvarez-552078145/
