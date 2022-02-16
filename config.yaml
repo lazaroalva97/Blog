@@ -28,4 +28,7 @@ params:
     - icon: linkedin
       name: LinkedIn
       url: https://www.linkedin.com/in/lazaro-alvarez-552078145/
+    - icon: youtube
+      name: Youtube
+      url: https://www.youtube.com/channel/UCHxLuLUvNoySaFbml7BBZMQ
  
