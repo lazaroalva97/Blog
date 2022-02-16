@@ -28,3 +28,10 @@ params:
     - icon: linkedin
       name: LinkedIn
       url: https://www.linkedin.com/in/lazaro-alvarez-552078145/
+  style:
+    darkestColor = "#242930"
+    darkColor = "#353b43"
+    lightColor = "#afbac4"
+    lightestColor = "#ffffff"
+    primaryColor = "#57cc8a"
+
