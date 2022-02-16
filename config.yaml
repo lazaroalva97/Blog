@@ -1,5 +1,5 @@
 baseURL: https://rwithlazar.netlify.app/
-title: Your title
+title: R with Lazar
 theme: hugo-theme-m10c
 paginate: 8
 menu:
@@ -18,12 +18,13 @@ menu:
       weight: 3
 params:
   author: Lazaro Alvarez
+  avatar: https://ibb.co/vHMrGt6
   description: Hi, I am a Data Scientist with a passion for sport analytics and betting.
   menu_item_separator: ' - '
   social:
     - icon: github
       name: Github
-      url: https://github.com/gohugoio
+      url: https://github.com/lazaroalva97/
     - icon: linkedin
       name: LinkedIn
       url: https://www.linkedin.com/in/lazaro-alvarez-552078145/
